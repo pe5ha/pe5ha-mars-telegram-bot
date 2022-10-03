@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/Moscow",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "TelegramAPI",
+        "version": "0",
+        "libraryId": "1kJ6a9hdAQbgyzlxQwExtrj9bCXf8wipe9zEI-U5VGQhju_qPBaq3njZY",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
